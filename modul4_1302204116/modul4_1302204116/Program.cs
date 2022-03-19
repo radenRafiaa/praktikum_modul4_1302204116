@@ -10,7 +10,7 @@ namespace modul4_1302204116
     {
         static void Main(string[] args)
         {
-            Penjumlahan.JumlahTigaAngka<int>(13, 22, 04);
+            Penjumlahan.JumlahTigaAngka<int>(13, 02, 20);
         }
 
         class Penjumlahan
