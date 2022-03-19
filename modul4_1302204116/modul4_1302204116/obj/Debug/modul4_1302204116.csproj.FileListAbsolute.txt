@@ -1,0 +1,8 @@
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\obj\Debug\modul4_1302204116.csproj.AssemblyReference.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\obj\Debug\modul4_1302204116.csproj.SuggestedBindingRedirects.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\obj\Debug\modul4_1302204116.csproj.CoreCompileInputs.cache
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\bin\Debug\modul4_1302204116.exe.config
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\bin\Debug\modul4_1302204116.exe
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\bin\Debug\modul4_1302204116.pdb
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\obj\Debug\modul4_1302204116.exe
+C:\RAFI\KULIAH\Semester 4\Kontruksi Perangkat Lunak\Pratikum\Week 4\modul4_1302204116\modul4_1302204116\obj\Debug\modul4_1302204116.pdb

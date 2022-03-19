@@ -10,6 +10,19 @@ namespace modul4_1302204116
     {
         static void Main(string[] args)
         {
+            Penjumlahan.JumlahTigaAngka<int>(13, 22, 04);
+        }
+
+        class Penjumlahan
+        {
+            public static void JumlahTigaAngka<T>(T data1, T data2, T data3)
+            {
+                dynamic angka1 = data1;
+                dynamic angka2 = data2;
+                dynamic angka3 = data3;
+
+                Console.WriteLine(angka1 + angka2 + angka3);
+            }
         }
     }
 }
